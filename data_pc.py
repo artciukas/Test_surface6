@@ -1,0 +1,51 @@
+sales = [
+    {
+        "customer": "Petras Adomaitis",
+        "product": "Laptop",
+        "quantity": 1,
+        "price": 1000,
+        "date": "2023-05-03",
+        "status": "done",
+    },
+    {
+        "customer": "Antanas Antanaitis",
+        "product": "Desctop",
+        "quantity": 2,
+        "price": 3000,
+        "date": "2023-06-12",
+        "status": "active",
+    },
+    {
+        "customer": "Giedrius Limas",
+        "product": "Tablet",
+        "quantity": 6,
+        "price": 300,
+        "date": "2023-06-06",
+        "status": "active",
+    },
+    {
+        "customer": "Antanas Antanaitis",
+        "product": "Keyboard",
+        "quantity": 6,
+        "price": 30,
+        "date": "2023-06-12",
+        "status": "active",
+    },
+    {
+        "customer": "Petras Adomaitis",
+        "product": "Tablet",
+        "quantity": 10,
+        "price": 250,
+        "date": "2023-05-16",
+        "status": "done",
+    },
+      {
+        "customer": "Giedrius Limas",
+        "product": "Mouse",
+        "quantity": 15,
+        "price": 33,
+        "date": "2023-06-23",
+        "status": "active",
+    },
+   
+]
